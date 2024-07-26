@@ -1,3 +1,7 @@
+#Wanna try the game?
+The app is available on Netlify:
+https://famous-cheesecake-63a24a.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
