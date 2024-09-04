@@ -2,6 +2,10 @@
 The app is available on Netlify:
 https://famous-cheesecake-63a24a.netlify.app/
 
+Game UI:
+![image](https://github.com/user-attachments/assets/39dc7f80-591a-45b1-99b4-deaeb3e0e0a2)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
